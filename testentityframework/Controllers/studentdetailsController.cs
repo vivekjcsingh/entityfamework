@@ -10,7 +10,7 @@ namespace testentityframework.Controllers
 {
 	public class studentdetailsController : Controller
 	{
-		TEF_StudentsEntities db = new TEF_StudentsEntities();
+        StudentNewDBontext db = new StudentNewDBontext();
 		// GET: studentdetails
 		public ActionResult Index()
 		{

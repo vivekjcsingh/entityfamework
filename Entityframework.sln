@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testentityframework", "testentityframework\testentityframework.csproj", "{913F1829-71DB-4E3B-95E5-6A205D73D263}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enityframework", "testentityframework\Enityframework.csproj", "{913F1829-71DB-4E3B-95E5-6A205D73D263}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
